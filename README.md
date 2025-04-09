@@ -4,6 +4,8 @@ The complete source code and datasets will be released soon.
 # How to run the code
 
 ## **Step 1)** Please download the dataset and put it in /datasets
+The data can be obtained by linking to Google Drive from here(https://drive.google.com/drive/folders/10iHqKt5Uhmv7j33eloQTcR3YtfvKX-cS?usp=drive_link), and the pre-trained model parameters can be obtained through this link(https://drive.google.com/drive/folders/1nkVK2wow5Qo-2lWlaRzU92jzn9Yorlk4?usp=drive_link).
+
 
 ## **Step 2)** Place the files in the structure as follows:
 ├─datasets----------Training and testing dataset\
