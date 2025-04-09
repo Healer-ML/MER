@@ -1,5 +1,5 @@
 # Micro-expression Recognition
-The full source code will be released soon.
+The complete source code and datasets will be released soon.
 
 # How to run the code
 
