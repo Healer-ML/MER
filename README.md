@@ -10,7 +10,7 @@ The full source code will be released soon.
 ├─label_dict-------Label File\
 ├─utils.py---------Tools\
 ├─log--------------Save path\
-├model\
+├─model\
 ├─main.py\
 ├─test.py\
 ├─requirements.txt
