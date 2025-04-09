@@ -1,0 +1,9 @@
+{
+  "anger": 0,
+  "others": 1,
+  "happy": 2,
+  "fear": 3,
+  "surprise": 4,
+  "disguest": 5,
+  "sad": 6
+}
