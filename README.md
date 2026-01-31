@@ -3,10 +3,10 @@
 > **Facial micro-expressions (MEs)** are fleeting, involuntary facial movements that reveal genuine emotions and play a key role in **lie detection** and **affective computing**.
 
 <p align="center">
-  <img src="ab.png" alt="Architecture Overview" width="600"/>
+  <img src="model.png" alt="Architecture Overview" width="600"/>
 </p>
 
-<p align="center"><em>Figure 1. Overview of the proposed SOFP-based Micro-expression Recognition (MER) framework.</em></p>
+<p align="center"><em>Figure 1. Overview of the proposed SOFP framework.</em></p>
 
 ---
 
